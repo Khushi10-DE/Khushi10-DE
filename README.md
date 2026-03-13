@@ -79,7 +79,7 @@ Built a production-style ETL pipeline that ingests raw datasets from **AWS S3**,
 ### 🔶 [Databricks Medallion Architecture Pipeline](https://github.com/Khushi10-DE/databricks-medallion-pipeline)
 > **Bronze → Silver → Gold Lakehouse**
 
-End-to-end lakehouse pipeline built on **Databricks** using **Delta Lake** and **PySpark**. Raw data lands in Bronze, cleaned in Silver, aggregated KPIs surfaced in Gold — following best practices for the Databricks Associate DE exam.
+End-to-end lakehouse pipeline built on **Databricks** using **Delta Lake** and **PySpark**. Raw data lands in Bronze, cleaned in Silver, aggregated KPIs surfaced in Gold.
 
 `Databricks` `PySpark` `Delta Lake` `SQL` `Unity Catalog`
 
