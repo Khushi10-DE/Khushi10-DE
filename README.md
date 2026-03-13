@@ -29,7 +29,7 @@ khushbu = {
 }
 ```
 
-I'm a Data Analyst transitioning into **Data Engineering**, with 3+ years of hands-on experience building ETL workflows, Snowflake data warehouses, and Power BI dashboards. I'm now focusing on cloud-native data engineering with **AWS**, **Databricks**, and **modern lakehouse architectures**.
+I'm a **Data Analyst transitioning into Data Engineering**, with 3+ years of hands-on experience building ETL workflows, Snowflake data warehouses, and Power BI dashboards. Currently pursuing an **MSc in Mathematics and Data Science** at the **University of Latvia**, I'm deepening my expertise in cloud-native data engineering with **AWS**, **Databricks**, and **modern lakehouse architectures**.
 
 ---
 
@@ -120,8 +120,8 @@ Pulls live data from a public REST API, transforms with **Python**, loads into *
 ## 💼 What I'm Looking For
 
 - 🎯 **Junior Data Engineer** or **Data Engineer Intern** roles
-- 🌍 Open to **remote**, **hybrid**, or **on-site** positions in Latvia / EU
-- 🤝 Comfortable with fast-paced teams and greenfield data infrastructure
+- 🌍 Open to **remote**, **hybrid**, or **on-site** positions (Latvia / EU preferred)
+- 🤝 Eager to learn from experienced teams and contribute to greenfield projects
 
 ---
 
