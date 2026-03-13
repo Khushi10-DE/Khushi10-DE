@@ -29,7 +29,7 @@ khushbu = {
 }
 ```
 
-I'm a Data Analyst transitioning into **Data Engineering**, with 3+ years of hands-on experience building ETL, Snowflake data warehouses, and Power BI dashboards. I'm now focusing on cloud-native data engineering with **AWS**, **Databricks**, and **modern lakehouse architectures**.
+I'm a Data Analyst transitioning into **Data Engineering**, with 3+ years of hands-on experience building ETL workflows, Snowflake data warehouses, and Power BI dashboards. I'm now focusing on cloud-native data engineering with **AWS**, **Databricks**, and **modern lakehouse architectures**.
 
 ---
 
@@ -96,10 +96,13 @@ Pulls live data from a public REST API, transforms with **Python**, loads into *
 
 ## 📜 Certifications
 
-| Certification | Issuer | Status |
-|---|---|---|
-| 🟡 Microsoft Power BI Data Analyst (PL-300) | Microsoft / Coursera | ✅ Certified |
-| 🔵 Google Data Analytics Professional Certificate | Google / Coursera | ✅ Certified |
+| Badge | Certification | Issuer | Status |
+|:---:|---|---|:---:|
+| ❄️ | Hands-On Essentials: Data Engineering | Snowflake | ✅ Jan 2026 |
+| ❄️ | Hands-On Essentials: Data Warehousing | Snowflake | ✅ Jan 2026 |
+| ❄️ | Hands-On Essentials: Data Lake | Snowflake | ✅ Jan 2026 |
+| 🟡 | Microsoft Power BI Data Analyst (PL-300) | Microsoft | ✅ Certified |
+| 🔵 | Google Data Analytics Professional Certificate | Google / Coursera | ✅ Certified |
 
 ---
 
