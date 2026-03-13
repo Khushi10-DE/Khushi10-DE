@@ -24,13 +24,12 @@ khushbu = {
     "role"        : "Junior Data Engineer (open to internships & roles)",
     "experience"  : "3+ years in data analytics, ETL, and BI",
     "education"   : "MSc Mathematics & Data Science @ University of Latvia",
-    "focus"       : ["AWS", "Databricks", "Snowflake", "dbt", "Apache Spark"],
-    "certifying"  : "Databricks Certified Associate Data Engineer (in progress)",
+    "focus"       : ["AWS", "Databricks", "Snowflake", "Python", "Apache Spark"],
     "superpower"  : "Turning messy raw data into clean, reliable pipelines ⚡",
 }
 ```
 
-I'm a Data Analyst transitioning into **Data Engineering**, with 3+ years of hands-on experience building ETL pipelines, Snowflake data warehouses, and Power BI dashboards. I'm now focusing on cloud-native data engineering with **AWS**, **Databricks**, and **modern lakehouse architectures**.
+I'm a Data Analyst transitioning into **Data Engineering**, with 3+ years of hands-on experience building ETL, Snowflake data warehouses, and Power BI dashboards. I'm now focusing on cloud-native data engineering with **AWS**, **Databricks**, and **modern lakehouse architectures**.
 
 ---
 
@@ -99,8 +98,7 @@ Pulls live data from a public REST API, transforms with **Python**, loads into *
 
 | Certification | Issuer | Status |
 |---|---|---|
-| 🟠 Databricks Certified Associate Data Engineer | Databricks | 🔄 In Progress |
-| 🟡 Microsoft Power BI Data Analyst (PL-300) | Microsoft | ✅ Certified |
+| 🟡 Microsoft Power BI Data Analyst (PL-300) | Microsoft / Coursera | ✅ Certified |
 | 🔵 Google Data Analytics Professional Certificate | Google / Coursera | ✅ Certified |
 
 ---
