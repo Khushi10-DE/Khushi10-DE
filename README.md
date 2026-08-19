@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Khushbu%20Gohil&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20AWS%20%C2%B7%20Databricks%20%C2%B7%20Snowflake&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=600&lines=Building+end-to-end+data+pipelines+%F0%9F%9A%80;AWS+%7C+Databricks+%7C+Snowflake+%7C+Python;Turning+raw+data+into+actionable+insights+%E2%9C%A8;MSc+Mathematics+%26+Data+Science+%40+University+of+Latvia)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=750&lines=Data+%26+AI+Cloud+Engineer+%F0%9F%9A%80;AWS+%7C+Azure+%7C+Databricks+%7C+Snowflake+%7C+Microsoft+Fabric;Building+intelligent%2C+cloud-native+data+pipelines+%E2%9A%A1;Databricks+Certified+Associate+Data+Engineer+%F0%9F%8F%85)](https://git.io/typing-svg)
 <br/>
 
 <!-- Social badges -->
