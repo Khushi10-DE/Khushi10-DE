@@ -21,15 +21,15 @@
 
 ```python
 khushbu = {
-    "role"        : "Junior Data Engineer (open to internships & roles)",
-    "experience"  : "3+ years in data analytics, ETL, and BI",
+    "role"        : "Data & AI Engineer (open to roles)",
+    "experience"  : "4+ years in data analytics, ETL, and BI",
     "education"   : "MSc Mathematics & Data Science @ University of Latvia",
-    "focus"       : ["AWS", "Databricks", "Snowflake", "Python", "Apache Spark"],
+    "focus"       : ["AWS", "Databricks", "Snowflake", "Python", "Apache Spark", "PySpark"],
     "superpower"  : "Turning messy raw data into clean, reliable pipelines ⚡",
 }
 ```
 
-I'm a **Data Analyst transitioning into Data Engineering**, with 3+ years of hands-on experience building ETL workflows, Snowflake data warehouses, and Power BI dashboards. Currently pursuing an **MSc in Mathematics and Data Science** at the **University of Latvia**, I'm deepening my expertise in cloud-native data engineering with **AWS**, **Databricks**, and **modern lakehouse architectures**.
+I'm a **Data Analyst transitioning into Data Engineering**, with 4+ years of hands-on experience building ETL workflows, Snowflake data warehouses, and Power BI dashboards. Currently pursuing an **MSc in Mathematics and Data Science** at the **University of Latvia**, I'm deepening my expertise in cloud-native data engineering with **AWS**, **Databricks**, and **modern lakehouse architectures**.
 
 ---
 
@@ -134,8 +134,8 @@ Pulls live data from a public REST API, transforms it with **Python**, loads int
 
 ## 💼 What I'm Looking For
 
-- 🎯 **Junior Data Engineer** or **Data Engineer Intern** roles
-- 🌍 Open to **remote**, **hybrid**, or **on-site** positions (Latvia / EU preferred)
+- 🎯 ** Data & AI Engineer** or **Cloud Engineer ** roles
+- 🌍 Open to **remote**, **hybrid**, or **on-site** positions
 - 🤝 Eager to learn from experienced teams and contribute to greenfield projects
 
 ---
