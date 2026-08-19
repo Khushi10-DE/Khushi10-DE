@@ -21,38 +21,14 @@ khushbu = {
     "experience"   : "4+ years in data engineering, ETL pipelines, and BI",
     "education"    : "MSc Mathematics & Data Science @ University of Latvia",
     "cloud"        : ["AWS", "Azure", "Databricks", "Snowflake", "Microsoft Fabric"],
-    "data_eng"     : ["Delta Lake", "Auto Loader", "PySpark", "Apache Spark",
-                      "Medallion Architecture", "Unity Catalog", "DLT Pipelines"],
-    "ai_tools"     : ["Cognigy AI", "AWS Lambda", "EventBridge", "SNS"],
     "certified_in" : ["Databricks Associate DE", "Cognigy NICE AI Engineer",
                       "AWS Cloud Essentials", "Databricks AWS Architect",
-                      "Snowflake Essentials x3", "Power BI PL-300"],
+                      "Snowflake Essentials x3"],
     "superpower"   : "Building intelligent, cloud-native data platforms end-to-end ⚡",
 }
 ```
 
 I'm a **Data & AI Cloud Engineer** with 4+ years of experience building cloud data platforms, ETL pipelines, and AI-powered applications. Currently pursuing an **MSc in Mathematics and Data Science** at the **University of Latvia**, I specialise in **AWS**, **Azure**, **Databricks**, **Snowflake**, and **Microsoft Fabric** — bridging modern data engineering with intelligent cloud automation.
-
----
-
-## 🏅 Databricks Certified — Associate Data Engineer
-
-> The Databricks Associate Data Engineer certification validates expertise across the full Databricks lakehouse stack.
-
-**Core competencies covered by this certification:**
-
-| Domain | Skills |
-|---|---|
-| **Lakehouse Architecture** | Medallion (Bronze/Silver/Gold), Delta Lake, Unity Catalog |
-| **Apache Spark & PySpark** | DataFrame API, transformations, actions, optimisation |
-| **Delta Lake** | ACID transactions, time travel, schema evolution, OPTIMIZE, ZORDER |
-| **Auto Loader** | Incremental file ingestion, schema inference, cloudFiles format |
-| **Databricks Workflows** | Multi-task job orchestration, task dependencies, scheduling |
-| **Delta Live Tables (DLT)** | Declarative pipelines, `@dlt.table`, `@dlt.expect` data quality |
-| **Unity Catalog** | Data governance, access control, lineage tracking |
-| **Structured Streaming** | readStream / writeStream, triggers, watermarks, checkpoints |
-| **Databricks SQL** | Query optimisation, dashboards, SQL warehouses |
-| **Production Best Practices** | Error handling, logging, CI/CD for notebooks, job monitoring |
 
 ---
 
@@ -73,11 +49,6 @@ I'm a **Data & AI Cloud Engineer** with 4+ years of experience building cloud da
 
 ### 🤖 AI & Serverless Automation
 ![Cognigy AI](https://img.shields.io/badge/Cognigy_AI-6B21A8?style=for-the-badge&logo=probot&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EventBridge](https://img.shields.io/badge/AWS_EventBridge-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SNS](https://img.shields.io/badge/AWS_SNS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🐍 Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -95,7 +66,6 @@ I'm a **Data & AI Cloud Engineer** with 4+ years of experience building cloud da
 ### 📊 BI & Visualisation
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Databricks SQL](https://img.shields.io/badge/Databricks_SQL-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧰 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -121,19 +91,6 @@ Fully serverless, event-driven ETL pipeline on AWS. Files landing in **S3** trig
 
 ---
 
-### 🔷 [AWS S3 → Snowflake ETL Pipeline](https://github.com/Khushi10-DE/aws-s3-snowflake-etl)
-> **Ingestion · Transformation · Loading · Analytics**
-
-Production-style ETL pipeline ingesting NYC Taxi data from **AWS S3**, transforming with **Python/Pandas** and **AWS Glue**, and loading into a **Snowflake** data warehouse for analytics.
-
-`AWS S3` `AWS Glue` `Python` `Snowflake` `SQL` `Power BI`
-
-- ✅ Automated daily ingestion reducing manual effort by 70%
-- ✅ Data quality validation and error handling layer
-- ✅ Three-schema Snowflake design (RAW → STAGING → ANALYTICS)
-
----
-
 ### 🔶 [Databricks Medallion Architecture Pipeline](https://github.com/Khushi10-DE/databricks-medallion-pipeline)
 > **Bronze → Silver → Gold Lakehouse | Delta Lake | PySpark**
 
@@ -144,18 +101,6 @@ End-to-end lakehouse pipeline on **Databricks** using **Delta Lake**, **PySpark*
 - ✅ Incremental ingestion with Auto Loader (no duplicate processing)
 - ✅ Delta Lake time travel for data versioning and audit
 - ✅ 4 Gold KPI tables — hourly demand, revenue, location, payment analysis
-
----
-
-### 🔹 [Automated Reporting Pipeline + Power BI Dashboard](https://github.com/Khushi10-DE/automated-reporting-pipeline)
-> **API Ingestion · PostgreSQL · Automated BI**
-
-REST API → Python/Pandas → PostgreSQL → automated Power BI dashboard. Reduced manual reporting effort by 40% and improved data freshness from weekly to near-real-time.
-
-`Python` `PostgreSQL` `REST API` `Pandas` `Power BI`
-
-- ✅ Scheduled automated runs with logging and error handling
-- ✅ Interactive Power BI dashboard with drill-down capabilities
 
 ---
 
