@@ -1,5 +1,18 @@
 <div align="center">
 
+    <!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Khushbu%20Gohil&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20AWS%20%C2%B7%20Databricks%20%C2%B7%20Snowflake&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=600&lines=Building+end-to-end+data+pipelines+%F0%9F%9A%80;AWS+%7C+Databricks+%7C+Snowflake+%7C+Python;Turning+raw+data+into+actionable+insights+%E2%9C%A8;MSc+Mathematics+%26+Data+Science+%40+University+of+Latvia)](https://git.io/typing-svg) 
+<br/>
+
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khushbugohil10-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushbu-gohil10)[![Email](https://img.shields.io/badge/Email-gohilkhusbu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gohilkhusbu@gmail.com)[![Location](https://img.shields.io/badge/📍-Riga%2C%20Latvia-2ea44f?style=for-the-badge)](https://github.com/Khushi10-DE) 
+</div>
+
+---
+
 <!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Khushbu%20Gohil&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20AI%20Cloud%20Engineer%20%7C%20AWS%20%C2%B7%20Azure%20%C2%B7%20Databricks%20%C2%B7%20Snowflake&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
