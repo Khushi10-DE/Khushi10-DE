@@ -1,6 +1,6 @@
 <div align="center">
 
-    <!-- Animated header banner -->
+<!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Khushbu%20Gohil&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20AWS%20%C2%B7%20Databricks%20%C2%B7%20Snowflake&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <!-- Typing animation -->
