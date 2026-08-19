@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-khushbugohil10-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushbugohil10)[![Email](https://img.shields.io/badge/Email-gohilkhusbu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gohilkhusbu@gmail.com)[![Location](https://img.shields.io/badge/📍-Riga%2C%20Latvia-2ea44f?style=for-the-badge)](https://github.com/Khushi10-DE) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khushbugohil10-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushbu-gohil10)[![Email](https://img.shields.io/badge/Email-gohilkhusbu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gohilkhusbu@gmail.com)[![Location](https://img.shields.io/badge/📍-Riga%2C%20Latvia-2ea44f?style=for-the-badge)](https://github.com/Khushi10-DE) 
 </div>
 
 </div>
