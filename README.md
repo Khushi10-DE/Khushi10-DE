@@ -146,7 +146,7 @@ Pulls live data from a public REST API, transforms it with **Python**, loads int
 
 If you're working on interesting data problems or looking for a motivated junior data engineer — I'd love to chat!
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushbugohil10)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushbu-gohil10)
 [![Email](https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gohilkhusbu@gmail.com)
 
 <br/>
