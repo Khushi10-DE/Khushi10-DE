@@ -115,7 +115,7 @@ End-to-end lakehouse pipeline on **Databricks** using **Delta Lake**, **PySpark*
 | ❄️ | Hands-On Essentials: Data Engineering | Snowflake | ✅ Jan 2026 |
 | ❄️ | Hands-On Essentials: Data Warehousing | Snowflake | ✅ Jan 2026 |
 | ❄️ | Hands-On Essentials: Data Lake | Snowflake | ✅ Jan 2026 |
-| 🟡 | Microsoft Power BI Data Analyst (PL-300) | Microsoft | ✅ Certified |
+| 🟡 | Microsoft Power BI Data Analyst (PL-300) | Microsoft / Coursera | ✅ Certified |
 | 🔵 | Google Data Analytics Professional Certificate | Google / Coursera | ✅ Certified |
 
 ---
